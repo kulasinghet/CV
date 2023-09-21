@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1695286082 "resume.xdv" "resume.pdf" "resume" 1695286083 0
-  "resume.xdv" 1695286082 78144 69ee92ce253a134f5a3689b5b6974c3e "xelatex"
+["xdvipdfmx"] 1695287346 "resume.xdv" "resume.pdf" "resume" 1695287347 0
+  "resume.xdv" 1695287346 78144 6cf8300a615f8373a5c71a57bb973fc7 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1695286077 "e:/CV/examples/resume.tex" "resume.xdv" "resume" 1695286083 0
+["xelatex"] 1695287341 "e:/CV/examples/resume.tex" "resume.xdv" "resume" 1695287347 0
   "C:/Users/thevi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1688014124 36493460 fa0044bc53d18df7ef1167061f8287ad ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -168,10 +168,10 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1695286076 31650 dcae01985a43f3bdf93dbac3c91fa4ec ""
+  "awesome-cv.cls" 1695287340 31651 7c15afb3af4c37866f46eeddeb91b532 ""
   "e:/CV/examples/resume.tex" 1695275772 3579 86c4da87ef8e781038a4157eadcf2bf4 ""
   "profile-image.jpg" 1692867597 267549 62a4c280205786b94e3c01a345572f97 ""
-  "resume.aux" 1695286082 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.aux" 1695287346 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
   "resume.tex" 1695275772 3579 86c4da87ef8e781038a4157eadcf2bf4 ""
   "resume/certificates.tex" 1695276506 1681 12c61b5d5747e1aa7ce6738677f51056 ""
   "resume/education.tex" 1695275926 2500 daf72c79b83d1f564c380590884410d6 ""
