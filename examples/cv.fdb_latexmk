@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1693768325 "cv.xdv" "cv.pdf" "cv" 1693768326 0
-  "cv.xdv" 1693768325 153872 76a72acdbc4752000a029c548f36f4cb "xelatex"
+["xdvipdfmx"] 1695284456 "cv.xdv" "cv.pdf" "cv" 1695284457 0
+  "cv.xdv" 1695284456 154888 0ee04afc6bb2a9c482f760b8eb4451e7 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1693768320 "e:/CV/examples/cv.tex" "cv.xdv" "cv" 1693768326 0
+["xelatex"] 1695284450 "e:/CV/examples/cv.tex" "cv.xdv" "cv" 1695284457 0
   "C:/Users/thevi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1688014124 36493460 fa0044bc53d18df7ef1167061f8287ad ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -168,8 +168,8 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1693768319 31182 3c69d5781b2fa27743f201e54ebe693b ""
-  "cv.aux" 1693768325 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
+  "awesome-cv.cls" 1695284449 31292 7279018294401e58f196138c41c90adf ""
+  "cv.aux" 1695284456 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
   "cv.tex" 1688014171 3789 888a358a0e82a389c50d9146ee876f52 ""
   "cv/certificates.tex" 1687982487 1791 78629a6b1160748ad70169f291b46285 ""
   "cv/committees.tex" 1687982487 1541 3207d2daaf27d324622b490731b6099a ""

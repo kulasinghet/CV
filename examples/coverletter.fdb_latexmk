@@ -1,12 +1,15 @@
 # Fdb version 4
-["xdvipdfmx"] 0 "coverletter.xdv" "coverletter.pdf" "coverletter" 0 -1
-  "coverletter.xdv" 0 -1 0 "xelatex"
+["xdvipdfmx"] 1695278842 "coverletter.xdv" "coverletter.pdf" "coverletter" 1695278843 0
+  "coverletter.xdv" 1695278841 34944 a18b4c8ed7db0f3016437604379c37f1 "xelatex"
   (generated)
   "coverletter.pdf"
   (rewritten before read)
-["xelatex"] 1694622724 "e:/CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1694622734 2
+["xelatex"] 1695278836 "e:/CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1695278843 0
   "C:/Users/thevi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1688014124 36493460 fa0044bc53d18df7ef1167061f8287ad ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi5.tfm" 1136765053 1508 c4419b1e413bcd6205bf37867d782a47 ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi7.tfm" 1136765053 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -165,10 +168,11 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1694622710 63290 2f8d514de4b89960b9e72a395021d944 ""
-  "coverletter.aux" 1694622724 34 3985256e7290058c681f74d7a3565a19 "xelatex"
-  "coverletter.tex" 1694579555 6022 8bcc70d4bc48479348de1d02b50977e8 ""
-  "e:/CV/examples/coverletter.tex" 1694579555 6022 8bcc70d4bc48479348de1d02b50977e8 ""
+  "awesome-cv.cls" 1695278835 61304 442ad18be783a408a62a09058962bca3 ""
+  "coverletter.aux" 1695278841 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
+  "coverletter.tex" 1694685012 6828 7b28c887629f11236b0072e8f103b1f4 ""
+  "e:/CV/examples/coverletter.tex" 1694685012 6828 7b28c887629f11236b0072e8f103b1f4 ""
+  "profile-image.jpg" 1692867597 267549 62a4c280205786b94e3c01a345572f97 ""
   (generated)
   "coverletter.aux"
   "coverletter.log"

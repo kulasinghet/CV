@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1694623132 "resume.xdv" "resume.pdf" "resume" 1694623133 0
-  "resume.xdv" 1694623131 73208 9a0af6d99b7379f957aac78a1b2f012e "xelatex"
+["xdvipdfmx"] 1695286082 "resume.xdv" "resume.pdf" "resume" 1695286083 0
+  "resume.xdv" 1695286082 78144 69ee92ce253a134f5a3689b5b6974c3e "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1694623120 "e:/CV/examples/resume.tex" "resume.xdv" "resume" 1694623133 0
+["xelatex"] 1695286077 "e:/CV/examples/resume.tex" "resume.xdv" "resume" 1695286083 0
   "C:/Users/thevi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1688014124 36493460 fa0044bc53d18df7ef1167061f8287ad ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -168,18 +168,19 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1694623092 31646 4804d44a949c40c6855344075af60002 ""
-  "e:/CV/examples/resume.tex" 1694623118 3568 11e537ed41c09c5a626088d22a313736 ""
-  "resume.aux" 1694623131 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
-  "resume.tex" 1694623118 3568 11e537ed41c09c5a626088d22a313736 ""
-  "resume/certificates.tex" 1688031809 1677 5516318d841c961ba8eb34aa092416c0 ""
-  "resume/education.tex" 1694588457 1881 78ff73520ba7e4c0fa8cf90269f1b073 ""
-  "resume/experience.tex" 1694582310 2594 671d18369fb35dd81571de9ee5ffadf2 ""
-  "resume/honors.tex" 1694596571 3015 3c7b2f9dd527e892a329ce051637512f ""
-  "resume/projects.tex" 1694599371 3555 6c571f445f81fb4a120cf5f4ced02b39 ""
-  "resume/references.tex" 1694591187 901 ea907271846347d353f29b83a220d999 ""
-  "resume/summary.tex" 1694588133 1107 a1b5f2f37caf1bcb085c2d04fb952525 ""
-  "resume/technologies.tex" 1694588992 923 a6997129253c7b043a5975cdf834de5e ""
+  "awesome-cv.cls" 1695286076 31650 dcae01985a43f3bdf93dbac3c91fa4ec ""
+  "e:/CV/examples/resume.tex" 1695275772 3579 86c4da87ef8e781038a4157eadcf2bf4 ""
+  "profile-image.jpg" 1692867597 267549 62a4c280205786b94e3c01a345572f97 ""
+  "resume.aux" 1695286082 464 642272556978b40963ab6b3ab7eb02a2 "xelatex"
+  "resume.tex" 1695275772 3579 86c4da87ef8e781038a4157eadcf2bf4 ""
+  "resume/certificates.tex" 1695276506 1681 12c61b5d5747e1aa7ce6738677f51056 ""
+  "resume/education.tex" 1695275926 2500 daf72c79b83d1f564c380590884410d6 ""
+  "resume/experience.tex" 1695271013 2918 6571014bff3dbcdf4e557a73becc7e03 ""
+  "resume/honors.tex" 1695276524 2994 22216ab81a0a450745f09d2c8f53ec75 ""
+  "resume/projects.tex" 1695276717 3734 0db4a56c1e3628b3e7ac1ea5943b8ce7 ""
+  "resume/references.tex" 1695276362 1000 a57d41488635869851baa21c1874b963 ""
+  "resume/summary.tex" 1695270512 1107 a1b5f2f37caf1bcb085c2d04fb952525 ""
+  "resume/technologies.tex" 1695283684 1279 dd6320ea672b8e152b95555b30576d76 ""
   (generated)
   "resume.aux"
   "resume.log"
