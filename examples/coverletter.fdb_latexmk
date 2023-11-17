@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1695278842 "coverletter.xdv" "coverletter.pdf" "coverletter" 1695278843 0
-  "coverletter.xdv" 1695278841 34944 a18b4c8ed7db0f3016437604379c37f1 "xelatex"
+["xdvipdfmx"] 1695373591 "coverletter.xdv" "coverletter.pdf" "coverletter" 1695373592 0
+  "coverletter.xdv" 1695373590 34648 0643b6b719d560431d9c9872a81806c5 "xelatex"
   (generated)
   "coverletter.pdf"
   (rewritten before read)
-["xelatex"] 1695278836 "e:/CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1695278843 0
+["xelatex"] 1695373584 "e:/CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1695373592 0
   "C:/Users/thevi/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1688014124 36493460 fa0044bc53d18df7ef1167061f8287ad ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -134,6 +134,9 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1675359988 4674 257c150d9d5c2fbc229303c8beaf6228 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1675359988 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575399536 5766 13a9e8766c47f30327caf893ece86ac8 ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex" 1633253722 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty" 1633253722 14690 c2c754218a7108db7823a4839c1bc3cd ""
+  "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/pagecolor/pagecolor.sty" 1681820886 9888 bce9a9132a3f756ede24729ac30ff1e9 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.sty" 1673775190 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.sty" 1673775190 373 00b204b1d7d095b892ad31a7494b0373 ""
@@ -168,11 +171,11 @@
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/thevi/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1695278835 61304 442ad18be783a408a62a09058962bca3 ""
-  "coverletter.aux" 1695278841 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
+  "awesome-cv.cls" 1695373583 31684 e45e31236a19627ca255da15c4f24ff6 ""
+  "coverletter.aux" 1695373590 464 4a44ff79e847885633a5b1d8ff00c655 "xelatex"
   "coverletter.tex" 1694685012 6828 7b28c887629f11236b0072e8f103b1f4 ""
   "e:/CV/examples/coverletter.tex" 1694685012 6828 7b28c887629f11236b0072e8f103b1f4 ""
-  "profile-image.jpg" 1692867597 267549 62a4c280205786b94e3c01a345572f97 ""
+  "profile-image.jpg" 1695363330 141364 9c8d081db47acfb60b639c205b4a3546 ""
   (generated)
   "coverletter.aux"
   "coverletter.log"
