@@ -1,0 +1,41 @@
+name: Create Release
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v1.0
+          release_name: Release v1.0
+          body: |
+            Add release notes here
+
+      - name: Upload PDF
+        id: upload_pdf
+        uses: actions/upload-artifact@v2
+        with:
+          name: PDF Document
+          path: examples/resume.pdf  # Updated path to the PDF document
+
+      - name: Attach PDF to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ github.workspace }}/examples/resume.pdf  # Updated path to the PDF document
+          asset_name: Thevindu Kulasinghe.pdf  # Updated name of the attached PDF
+          asset_content_type: application/pdf
