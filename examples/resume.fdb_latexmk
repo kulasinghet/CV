@@ -1,12 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1705303887 "/home/azureuser/Repos/CV/examples/resume.xdv" "/home/azureuser/Repos/CV/examples/resume.pdf" "/home/azureuser/Repos/CV/examples/resume" 1705303888
-  "/home/azureuser/Repos/CV/examples/resume.xdv" 1705303887 80232 0f74b76f039fb9ee7eb5ba21772e42ba "xelatex"
+["xdvipdfmx"] 1707241206 "/home/azureuser/Repos/CV/examples/resume.xdv" "/home/azureuser/Repos/CV/examples/resume.pdf" "/home/azureuser/Repos/CV/examples/resume" 1707241206
+  "/home/azureuser/Repos/CV/examples/resume.xdv" 1707241206 80276 58833ebb06a7cae6bfa23a054948c438 "xelatex"
   (generated)
   "/home/azureuser/Repos/CV/examples/resume.pdf"
-["xelatex"] 1705303884 "/home/azureuser/Repos/CV/examples/resume.tex" "/home/azureuser/Repos/CV/examples/resume.xdv" "resume" 1705303888
+["xelatex"] 1707241203 "/home/azureuser/Repos/CV/examples/resume.tex" "/home/azureuser/Repos/CV/examples/resume.xdv" "resume" 1707241206
   "/etc/texmf/web2c/texmf.cnf" 1705290973 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/azureuser/.texlive2019/texmf-var/web2c/xetex/xelatex.fmt" 1705291098 4648655 d4e5cfd372c219f1fb381c94cfce2f74 ""
-  "/home/azureuser/Repos/CV/examples/resume.aux" 1705303887 572 d3702cbc739cdfe6c5284c535aa14a26 ""
+  "/home/azureuser/Repos/CV/examples/resume.aux" 1707241206 572 d3702cbc739cdfe6c5284c535aa14a26 ""
   "/home/azureuser/Repos/CV/examples/resume.tex" 1705303883 3560 647d02a19009f50dd6ca082069368bbe ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -177,19 +177,19 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "awesome-cv.cls" 1705293107 30877 962356702bd24644de943ca0bc6677b6 ""
   "profile-image.jpg" 1705292283 65328 c94604b8f76de8d1db6437795090d967 ""
-  "resume.aux" 1705303887 572 d3702cbc739cdfe6c5284c535aa14a26 "xelatex"
+  "resume.aux" 1707241206 572 d3702cbc739cdfe6c5284c535aa14a26 "xelatex"
   "resume.tex" 1705303883 3560 647d02a19009f50dd6ca082069368bbe ""
   "resume/certificates.tex" 1705300535 1636 662b017debb11eac6e8bc1c1d91562c7 ""
-  "resume/education.tex" 1705292283 2404 922904f7bd41fa1e476f8475c2b85a39 ""
-  "resume/experience.tex" 1705292283 2790 34cdb35bc7cdc9fe4176e6c94411c729 ""
+  "resume/education.tex" 1706931912 2418 4fe165c2692508b1fbb966dd58960b10 ""
+  "resume/experience.tex" 1707241201 2812 a084a26067e3c0f7cd9a593326cf1440 ""
   "resume/honors.tex" 1705292283 2905 8ebd579672fbd90c9f7590ffe49034d2 ""
-  "resume/projects.tex" 1705292283 4762 3728b516483fdd267fac245e3b5e106f ""
+  "resume/projects.tex" 1707241075 6528 cf00908a4afe337e7eb79069e0ce69f3 ""
   "resume/references.tex" 1705300854 1004 d87790c1aad21d9f57b5b194f4736511 ""
-  "resume/summary.tex" 1705300461 905 34459da220665987c550641ffcc53905 ""
+  "resume/summary.tex" 1706931966 916 d5667284620b1378bd8794d0bc0c6739 ""
   "resume/technologies.tex" 1705299329 1231 76d98f0be84072c936fca8f9105ee9e5 ""
   (generated)
+  "/home/azureuser/Repos/CV/examples/resume.xdv"
+  "resume.aux"
   "/home/azureuser/Repos/CV/examples/resume.log"
   "resume.log"
-  "resume.aux"
-  "/home/azureuser/Repos/CV/examples/resume.xdv"
   "resume.xdv"
